@@ -7,13 +7,13 @@ Welcome to CoffeeHub, your go-to destination for delightfully absurd and entirel
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/suguna-s/CoffeeHub.git
+git clone https://github.com/suguna-s/coffeehub.git
 ```
 
 3. Navigate to the project directory:
 
 ```sh
-cd CoffeeHub
+cd coffeehub
 ```
 
 3. Install dependencies:
